@@ -1,1 +1,5 @@
 # .chmt
+
+testing sentient agi 
+
+
